@@ -1,5 +1,6 @@
 body, main {
     display: flex;
+    background-color: rgb(247, 241, 224);
 }
 
 body {
